@@ -45,3 +45,5 @@ for (const [key, value] of Object.entries(bottle)) {
 // 
 // const arr = ['color', 'jeans', 'tom']
 // arr['color']
+
+
